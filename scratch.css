@@ -1,0 +1,49 @@
+h1{
+    text-align: center;
+}
+body{
+    background-color: rgb(245, 222, 225);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: black;
+    font-size: 'Comic Sans MS', Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+img{
+    border: 2px solid black;
+    padding: 2px;
+
+}
+.centervideo{
+    display: block;
+    margin: auto;
+}
+
+
+/*.common{
+    position: absolute;
+}*/
+.footer{
+    z-index: 1;
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+    display: block;
+    text-align: center;
+    background-color:rgb(245, 222, 225);
+    color: black;
+}
+
+.header{
+    top:0px;
+}
+.mainbody{
+    top: 400px;
+}
+/*.container {
+    position: relative;
+  }
+  /*ol{
+    background-color: black;
+}

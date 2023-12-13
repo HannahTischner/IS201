@@ -1,0 +1,29 @@
+h1{
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    background-color: rgb(245, 222, 225);
+    color: black;
+    text-align: left;
+}
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    background-color: rgb(245, 222, 225);
+    color: black;
+    text-align: left;
+}
+
+  .container {
+    position: relative;
+  }
+
+  .image {
+    position: relative;
+    top: 0;
+    right: 0;
+    width: 40%;
+    border: 2px solid black;
+    padding: 8px;
+
+  }
